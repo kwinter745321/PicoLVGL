@@ -17,3 +17,7 @@ asyncio/__init__  dht               micropython       uasyncio
 asyncio/core      ds18x20           neopixel          uctypes
 asyncio/event     errno             onewire           vfs
 asyncio/funcs     framebuf          os
+
+
+Note: The build did not include the hex.  Should not be an issue as only UF2 file is needed.
+
