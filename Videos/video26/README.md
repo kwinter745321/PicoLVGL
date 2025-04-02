@@ -1,4 +1,4 @@
-# README - video 26 LVGL 9 - Keyboard Widget (Best display)
+# README - video 26 - MicroPython LVGL 9 - Keyboard Widget (Best display)
 
 28 March 2025
 
