@@ -1,4 +1,4 @@
-# test_font_fs.py
+# test_font-demo_fs.py
 #
 # Copyright (C) 2025 KW Services.
 # MIT License
