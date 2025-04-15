@@ -47,5 +47,7 @@ This directory contains the files for video 29.
 |         |   st77xx.py          | generic display driver |
 |         |   xpt2046.py         | touch driver           |
 |         |                      |                                             |
+| STL     |   RotaryPanel.stl    | 3D-printable plate to hold the Rotary Encoder.  |
+|         |                      |                                                 |
 
 
