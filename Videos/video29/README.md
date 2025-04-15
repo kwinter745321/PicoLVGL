@@ -21,7 +21,7 @@ All three platforms contain the MicroPython language and the LVGL 9.3 API Librar
     • Review of test LVGL example code
 
 # Contents
-This directory contains the files for video 29.  Each program displays the Scales in their default black color on a white background.  The various Scale Parts can be changed to a color-style if you uncomment a specific line. 
+This directory contains the files for video 29.  
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|
@@ -33,6 +33,9 @@ This directory contains the files for video 29.  Each program displays the Scale
 | -Pico   |firmware.uf2         |   PICO (RP2040) firmware  (LVGL 9.1)  |
 | -Pico_W |firmware.uf2         |   PICO_W (RP2040) firmware  (LVGL 9.1)  |
 | -Pico2  |firmware.uf2         |   PICO2 (RP2350) firmware  (LVGL 9.3)  |
+|         |                      |                            |
+| -Pico   |firmware.uf2         |   PICO (RP2040) firmware  (LVGL 9.3)  |
+| -Pico_W |firmware.uf2         |   PICO_W (RP2040) firmware  (LVGL 9.3)  |
 |         |                      |                                 |
 | Pico    |                      |                             |
 |         |   display_driver.py  | display and touch setup for ILI9341 display. |

@@ -14,7 +14,7 @@ In this video,
     • We reviewed the Keyboard widget code  
 
 # Contents
-This directory contains the files for video 26.  Each program displays the Scales in their default black color on a white background.  The various Scale Parts can be changed to a color-style if you uncomment a specific line. 
+This directory contains the files for video 26.  
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|

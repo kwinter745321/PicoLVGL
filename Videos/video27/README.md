@@ -21,7 +21,7 @@ Then standard female DuPont wires can interconnect the pins of the header and th
 	  - the second example utilizes the LVGL filesystem.
 
 # Contents
-This directory contains the files for video 27.  Each program displays the Scales in their default black color on a white background.  The various Scale Parts can be changed to a color-style if you uncomment a specific line. 
+This directory contains the files for video 27.   
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|
