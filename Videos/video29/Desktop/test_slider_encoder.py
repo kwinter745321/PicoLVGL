@@ -1,5 +1,6 @@
 # test_slider_encoder.py
 #
+# Copyright (C) 2025 KW Services.
 # MIT License
 # MicroPython v1.20.0-724-gbf1107420 on 2025-02-19; Raspberry Pi Pico with RP2040
 # Raspberry Pi Pico (RP2040)
