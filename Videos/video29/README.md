@@ -5,10 +5,12 @@
 # Topic
 This is video 29. The eighth video on MicroPython LVGL. This video describes the LVGL Encoder operating logic, researches rotary encoders, discusses wiring a rotary encoder to the Pico and reviews several code examples. 
 
-The hardware is a 2.4 inch Ili9341 LCD Display with integrated Touch and a KY-040 Rotary Encoder. The display board is wired to the Raspberry Pi Pico USB board and tested. So the platform was switched to a standard Pico (RP2040).  This is to try out an update to LVGL 9.3 (MicroPython is version 1.20 )  The code will work as is on LVGL 9.1.
+The hardware is a 2.4 inch Ili9341 LCD Display with integrated Touch and a KY-040 Rotary Encoder. The display board is wired to the Raspberry Pi Pico USB board and tested. So the platform was switched to a standard Pico (RP2040).  This is to try out an update to LVGL 9.3 (MicroPython is version 1.20 )  The code will work as is on LVGL 9.1.  
+
+Note: the Pico2, at the moment, has an issue with the LVGL Encoder (INDEV) setup and hangs.  The Pico2 does work with the Rotary Encoder driver, so you can directly manage the device. 
 
 If you update to the latest firmware, please backup any Pico files.  I noticed that my RP2040 Pico-W
-did not keep the files.  Whereas RP2040 happily kept everything.
+did not keep the files.  Whereas RP2040 happily kept everything. 
 
 All three platforms contain the MicroPython language and the LVGL 9.3 API Library and are available at the GitHub site.
 
