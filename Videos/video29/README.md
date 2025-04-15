@@ -25,8 +25,9 @@ This directory contains the files for video 29.  Each program displays the Scale
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|
-| Desktop | test_abc.py     | The demo program to abc. |
-|         | test_abc.py | The test program reviewed abc. |
+| Desktop | test_rotary_driver.py     | Test your Rotary Encoder with the new driver files. |
+|         | test_group_encoder.py | The demonstration program. It contains an example of multiple widgets in an Encoder group. |
+|         | test_slider_encoder.py | A test program with a single widget and example of disabling the Nav mode.
 |         |                      |                            |
 | Firmware|                      |                            |
 | -Pico   |firmware.uf2         |   PICO (RP2040) firmware  (LVGL 9.1)  |
