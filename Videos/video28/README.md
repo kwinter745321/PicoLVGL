@@ -16,7 +16,7 @@ All three firmware contain the MicroPython language and the LVGL API Library and
     • Review test font code
 
 # Contents
-This directory contains the files for video 25.  Each program displays the Scales in their default black color on a white background.  The various Scale Parts can be changed to a color-style if you uncomment a specific line. 
+This directory contains the files for video 28.  Each program displays the Scales in their default black color on a white background.  The various Scale Parts can be changed to a color-style if you uncomment a specific line. 
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|
