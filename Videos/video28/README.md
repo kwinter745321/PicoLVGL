@@ -44,3 +44,7 @@ This directory contains the files for video 25.  Each program displays the Scale
 |         |  montserrat-med-xx-2.bin  | montserrat medium xx=12,14,16...48 sizes      |
 |         |  roboto-reg-xx-2.bin      | roboto xx=24 size      |
 
+14 April 2025
+
+I replaced the file display_driver.py to fix lines 78-80 that should not have an indent.
+

@@ -50,3 +50,7 @@ This directory contains the files for video 25.  Each program displays the Scale
 |                |  cog1.png                 |  image of a cog                 |
 |                |  R5.png                   |  image of my Raspberry PI 5     |
 
+14 April 2025
+
+I replaced the file display_driver.py to fix lines 78-80 that should not have an indent.
+
