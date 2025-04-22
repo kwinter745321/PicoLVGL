@@ -3,11 +3,11 @@
 22 April 2025
 
 # Topic
-This is video 30. The ninth video on MicroPython LVGL. This video describes the LVGL Encoder operating logic, researches rotary encoders, discusses wiring a rotary encoder to the Pico and reviews several code examples. 
-
 This is video 30. The ninth video on MicroPython LVGL. This video introduces ulab and demonstrates a sampling of methods and functions via a JupyterLab Sheet.  Additionally, a new firmware and the ulab build options are described.  Finally, a LVGL Chart Wizard program is presented along with a review of the code. 
 
-The hardware is a 2.4 inch Ili9341 LCD Display with integrated Touch. The display board is wired to the Raspberry Pi Pico USB board and tested. The platform is a standard Pico (RP2040).  I briefly verified the code works the same way on a Pico2 USB board.  Some of the Chart function names changed between LVGL 9.1 and LVGL 9.3.   Soi the code example includes the LVGL 9.1 statements (commented out).   By using the LVGL 9.1 statements, I was verify the program in the online simulator (LVGL 9.0) of course without ulab.
+The hardware is a 2.4 inch Ili9341 LCD Display with integrated Touch. The display board is wired to the Raspberry Pi Pico USB board and tested. The platform is a standard Pico (RP2040).  I verified the code works the same way on a Pico2 USB board.  
+
+Some of the Chart function names changed between LVGL 9.1 and LVGL 9.3.   So, the code example includes the LVGL 9.1 statements (commented out).   By using the LVGL 9.1 statements, I was verify the program in the online simulator which is using LVGL 9.0.  Of course it does not have ulab so I used reasonable values.
 
 If you update to the latest firmware, please backup any Pico files.  I noticed that my RP2040 Pico-W
 did not keep the files.  Whereas RP2040 happily kept everything.
@@ -15,10 +15,10 @@ did not keep the files.  Whereas RP2040 happily kept everything.
 All three platforms contain the MicroPython language and the LVGL 9.3 API Library and are available at the GitHub site.
 
 In this video,
-    • We researched ulab
-    • We demonstrated its capabilities using a Jupyter notebook
-    • We discussed the specific firmware available at my GitHub site
-    • We reviewed the program code of a chart widget and using a couple of lab functions
+    • We research ulab
+    • We demonstrate ulab capabilities using a Jupyter notebook
+    • We discuss the specific firmware available at my GitHub site
+    • We review the program code of a chart widget and using a couple of lab functions
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL
@@ -29,7 +29,6 @@ https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video30
 The Base Board is available for purchase:
 https://www.tindie.com/products/aiy745321/pico-mp-display-board/
 
-Background music is 7th Life by Adam MacDougall which is You Tube Licensed as not requiring an attribution.
 
 # Contents
 This directory contains the files for video 29.  
