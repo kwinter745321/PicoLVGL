@@ -1,4 +1,11 @@
-
+# test_chart_ulab.py
+#
+# Copyright (C) 2025 KW Services.
+# MIT License
+# MicroPython v1.20.0-2504.g9fe842956 on 2025-04-04; Raspberry Pi Pico2 with RP2350
+# Raspberry Pi Pico (RP2040)
+# LVGL 9.3
+# 
 # Initialize
 
 import display_driver
