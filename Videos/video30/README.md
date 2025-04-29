@@ -31,7 +31,7 @@ https://www.tindie.com/products/aiy745321/pico-mp-display-board/
 
 
 # Contents
-This directory contains the files for video 29.  
+This directory contains the files for video 30.  
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|
