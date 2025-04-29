@@ -32,7 +32,7 @@ This directory contains the files for video 31.
 |---------|-----------|-------------|
 | Desktop   | test_matrix_display.py     | The demonstration program. It contains an example of 52 LVGL Button widgets. Its useful to verify touch on a larger display.|
 |           | test_chart2_ulab.py | This is an update of test_chart_ulab.py and provides a bigger chart.  Also, the X Axis is configured better.|
-|           | test_keyboard2_display.py  |   This is an update of test_keyboard_display.py.  The keyboard widget resized automatically to the new 480x320 display.  I aligned the text Area to the bottom of the keyboard. |
+|           | test_keyboard2_display.py  |   This is an update of test_keyboard_display.py.  The keyboard widget resized automatically to the new 480x320 display.  I aligned the Text Area to the bottom of the keyboard. |
 |           |  test_xpt2046_b.py  |  Test program to verify Touch using updated driver.  |
 |           |                      |                            |
 | Firmware  |                      |                            |
