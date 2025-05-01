@@ -52,7 +52,7 @@ scr = lv.screen_active()
 coords = None
 
 ###touch = xpt2046.Xpt2046_hw(spi=tspi,cs=21,rot=1)
-touch = xpt2046_st7796.Xpt2046_hw(spi=tspi,cs=21,rot=0)
+touch = xpt2046_b.Xpt2046_hw(spi=tspi,cs=21,rot=0)
 
 def scale_value(value, in_min, in_max, out_min, out_max):
   scaled_value = (value - in_min) * (out_max - out_min) / (in_max - in_min) + out_min
