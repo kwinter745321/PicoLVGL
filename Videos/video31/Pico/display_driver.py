@@ -15,9 +15,9 @@ import xpt2046_b
 import machine
 from machine import SPI, Pin, reset
 import time
-import os
-import sdcard2 as sdcard
-import fs_driver
+# import os
+# import sdcard2 as sdcard
+# import fs_driver
 
 # Initialize LVGL
 lv.init()
