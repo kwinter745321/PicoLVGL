@@ -3,9 +3,9 @@
 08 May 2025
 
 # Topic
-This is video 32 on MicroPython. This video discusses a suggested change to the display driver to manage orientation modes.  The orientations are Portrait, Landscape, Inverted Portrait, and Inverted Landscape. Details on changes to the device drivers are explained. Finally, the keyboard program is demonstrated on the 4 inch ST7796 and the 2.8 inch ILI9341 displays.  The code for the firmware, drivers and programs are at the GitHub site. 
+This is video 32 on MicroPython. This video discusses a suggested change to the display driver to manage orientation modes.  The orientations are Portrait, Landscape, Inverted Portrait, and Inverted Landscape. Details on changes to the device drivers are explained. Finally, the keyboard program is demonstrated on the 4 inch ST7796 and the 2.8 inch ILI9341 displays. The code also includes transform calculations for the 2.4 inch ILI9341 display. The code for the firmware, drivers and programs are at the GitHub site. 
 
-The hardware is the Base Board, the Raspberry Pi Pico (RP2040) USB board and three displays. The drivers should work on the Pico2/PicoW. The April Firmware LVGL 9.3 is utilized. All three platforms contain the MicroPython 1.24 language and the LVGL 9.3 API Library and are available at the GitHub site.  The banners state MP 1.20
+The hardware is the Pico MP Display Base Board, the Raspberry Pi Pico (RP2040) USB board and three displays. The drivers should work on the Pico2/PicoW. The April Firmware LVGL 9.3 is utilized. All three platforms contain the MicroPython 1.24 language and the LVGL 9.3 API Library and are available at the GitHub site.  The banners state MP 1.20
 
 In this video,
 - Discuss improvements needed and seeking your feedback via Comments
@@ -24,7 +24,7 @@ https://www.tindie.com/products/aiy745321/pico-mp-display-board/
 
 
 # Contents
-This directory contains the files for video 31.  
+This directory contains the files for this video.  
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|
