@@ -10,10 +10,10 @@ The hardware is a 2.4 inch Ili9341 LCD Display with integrated Touch. The displa
 All three platforms contain the MicroPython 1.24 language and the LVGL 9.3 API Library and are available at the GitHub site.  The banners state MP 1.20
 
 In this video,
-    • Research 480x320 displays
-    • Present my choice and discuss wiring
-    • Review driver changes
-    • Present a demonstration and two updated programs
+- Research 480x320 displays
+- Present my choice and discuss wiring
+- Review driver changes
+- Present a demonstration and two updated programs
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL
