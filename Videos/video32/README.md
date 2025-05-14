@@ -1,12 +1,5 @@
 # README - video 32 - MicroPython LVGL 9 - Let's improve the display driver for orientation
 
-# UPDATE 14 May 2025 
-
-While using my "PicoW"-April 2025 firmware:
-I found that the LVGL features worked fine however the CYW43 (Wifi) failed.
-If you need both LVGL+Network... please use the Feb 2025 PicoW firmware.
-
-
 # Topic 08 May 2025
 This is video 32 on MicroPython. This video discusses a suggested change to the display driver to manage orientation modes.  The orientations are Portrait, Landscape, Inverted Portrait, and Inverted Landscape. Details on changes to the device drivers are explained. Finally, the keyboard program is demonstrated on the 4 inch ST7796 and the 2.8 inch ILI9341 displays. The code also includes transform calculations for the 2.4 inch ILI9341 display. The code for the firmware, drivers and programs are at the GitHub site. 
 
