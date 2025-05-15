@@ -7,7 +7,7 @@ The hardware is the Base Board, the Raspberry Pi Pico (RP2040) USB board and the
 
 In this video,
     • Present an example LVGL MicroPython program
-    • Briefly discus networking and asyncio on the Pico
+    • Briefly discuss networking and asyncio on the Pico
     • Demonstrate the program
     • Review the program code
 
@@ -27,7 +27,7 @@ This directory contains the files for this video.
 
 | Folders | File list | Explanation |
 |---------|-----------|-------------|
-| Desktop   | ttemp_humidity_display.py     | The demonstration program. It must be install on PicoW with the Feb 2025 firmware.|
+| Desktop   | temp_humidity_display.py     | The demonstration program. It must be install on PicoW with the Feb 2025 firmware.|
 |           |                      |                            |
 |           |                      |                            |
 | Firmware  |                      |                            |
