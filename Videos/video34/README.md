@@ -1,4 +1,4 @@
-# README - video 34 - MicroPython LVGL 9 - An interesting program
+# README - video 34 - MicroPython LVGL 9 - Is it pioneering a new way?
 
 # Topic 20 May 2025
 This is video 34 on MicroPython and LVGL. This is the first video of a two part miniseries on the LVGL MicroPython pioneering efforts These efforts are being developed on ESP32, but are destined for many platforms like the RPI Pico.  In this video, we use a newly built firmware for an ESP32-S3 board to introduce LVGL 9.3 - MicroPython on the ESP32. We discuss wiring and setup. Then we demonstrate the setup using two previous examples.
