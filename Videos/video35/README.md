@@ -32,14 +32,13 @@ This directory contains the files for this video.
 |           |                      |                            |
 | Firmware  |                      |                            |
 | -May2025  |                      |                            |
-| -MP-LVGL9.2.2-1.24-ESP32-S3-Oct-LCD-Bus          |firmware.uf2          |   ESP32 firmware  (MP1.24.1 and LVGL 9.2.2)  |
+| -MP-LVGL9.2.2-1.24-ESP32-S3-Oct-LCD-Bus          |lvgl_micropy_ESP32_GENERIC_S3-SPIRAM_OCT-8.uf2          |   ESP32 firmware  (MP1.24.1 and LVGL 9.2.2)  |
 |           |                      |                                 |
 |           |                      |                                 |
 | Pico      |                      |                             |
 |           |                      |                              |
 |           |Driver files          |  |
 |           |   secret.py          | Put your wireless service-name and password here.
-
 |           |                      |                                             |
 |           |                      |                                                 |
 
