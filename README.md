@@ -11,14 +11,20 @@ The firmware are files that result from the build of "micropython_lv". Although 
 These firmware files are special because they contain the LVGL library within the firmware.  They are built in a Linux environment following the online directions.
 Admittedly the online directions are not that clear; hence I generated the files.
 
-| USB Board | MicroPython | LVGL | Build Date    |
-|-----------|-------------|------|---------------|
-| Pico      | v1.20       | v9.1 | 19 Feb 2025   |
-| PicoW     | v1.20       | v9.1 | 27 Feb 2025   |
-| Pico2     | v1.20       | v9.3 | 24 March 2025 |
-| Pico2W    | -           | -    | -             |
+| USB Board | MicroPython | LVGL | Build Date    | Implementation |
+|-----------|-------------|------|---------------|----------------|
+| Pico      | v1.20       | v9.1 | 19 Feb 2025   |                |
+| PicoW     | v1.20       | v9.1 | 27 Feb 2025   |                |
+| Pico2     | v1.20       | v9.3 | 24 March 2025 |                |
+| Pico2W    | -           | -    | -             |                |
+|-----------|-------------|------|---------------|----------------|
+| Pico      | v1.20       | v9.3 | 15 Apr 2025   | 1.24-1 + ulab  |
+| PicoW     | v1.20       | v9.3 | 14 May 2025   | 1.24-1 + ulab  |
+| Pico2     | v1.20       | v9.3 | 21 Apr 2025   | 1.24-1 + ulab  |
+| Pico2W    | -           | -    | -             |                |
 
-kdschlosser is working on a new method of building the firmware which hopefully results in a newer version of MicroPython paired with the LVGL files.
+All of these were built from the legacy lv_micropython web site.
+I did not edit any file but simply built as is (hence the banner says 1.20.)
 
 # Programs
 
