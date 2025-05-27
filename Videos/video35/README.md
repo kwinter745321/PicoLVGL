@@ -1,6 +1,8 @@
 # README - video 35 - MicroPython LVGL 9 - Is it pioneering a new way? Part 2
 
-# Topic 22 May 2025
+# Topic 
+22 May 2025
+
 This is video 35 on MicroPython and LVGL. This is the second video of a two part miniseries on the LVGL MicroPython pioneering efforts These efforts are being developed on ESP32, but are destined for many platforms like the RPI Pico.  For this video, we rebuilt the ESP32-S3 firmware (again).  We used the new Binding approach for ESP32. We discuss the new API now available and use it to setup another example.
 
 The hardware, mounted on a breadboard, is the WeAct Studios ESP32-S3-Oct (N16R8) USB board and a standard ILI9341 display.
