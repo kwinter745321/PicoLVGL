@@ -8,9 +8,9 @@ We use a Pico USB board with the Pico Display MB base board which is wired to IL
 In this video,
 - Present the LVGL Canvas drawing approach
 - Utilize the online LVGL simulator to:
-- Discuss the various draw and canvas statements
-- Next we use a button to update the canvas
-- Thirdly, we utilize the inherent-LVGL touch device to place drawing objects
+  - Discuss the various draw and canvas statements
+  - Next we use a button to update the canvas
+  - Thirdly, we utilize the inherent-LVGL touch device to place drawing objects
 - Finally, we demonstrate the canvas program and review the code
 
 The code for this video is available at the GitHub site:
