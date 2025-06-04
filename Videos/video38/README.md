@@ -6,12 +6,12 @@ This is video 38 on MicroPython and LVGL. This video presents an approach on how
 We use a Pico USB board with the Pico Display MB base board which is wired to ILI9341 Display.
 
 In this video,
-    • Present the LVGL Canvas drawing approach
-    • Utilize the online LVGL simulator to:
-	◦ Discuss the various draw and canvas statements
-        ◦ Next we use a button to update the canvas
-        ◦ Thirdly, we utilize the inherent-LVGL touch device to place drawing objects
-    • Finally, we demonstrate the canvas program and review the code
+- Present the LVGL Canvas drawing approach
+- Utilize the online LVGL simulator to:
+- Discuss the various draw and canvas statements
+- Next we use a button to update the canvas
+- Thirdly, we utilize the inherent-LVGL touch device to place drawing objects
+- Finally, we demonstrate the canvas program and review the code
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL
@@ -32,7 +32,7 @@ This directory contains the files for this video.
 |           |                                  |                                            |
 | Simulator |                                  |                                            |
 |           | test_simple_simulator.py          |  The first code snippet. |
-|           | test_update_simulator.py          |  The secondcode snippet. |
+|           | test_update_simulator.py          |  The second code snippet. |
 |           | test_indev_simulator.py          |  The third code snippet. |
 |           |                      |                            |
 | Firmware  |                      |                            |
