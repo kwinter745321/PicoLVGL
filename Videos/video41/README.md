@@ -4,11 +4,11 @@
 This is video 41 on MicroPython and LVGL. This video researches the generic FT6x36 (I2C) Touch driver and explains how it was re-written for the Hosyond Touch controller. We utilize the standard RPI Pico USB Board and interface it to the Hosyond (ST7796S) display
 
 In this video, 
-    • Discuss the generic FT6x36 driver available at the GitHub site
-    • Discuss the Hosyond display and its CTP touch module
-    • Present the CTP Interface and the physical pinout
-    • Demonstrate the new touch driver using our standard programs
-    • Finally, discuss the touch driver and updated display_driver code
+- Discuss the generic FT6x36 driver available at the GitHub site
+- Discuss the Hosyond display and its CTP touch module
+- Present the CTP Interface and the physical pinout
+- Demonstrate the new touch driver using our standard programs
+- Finally, discuss the touch driver and updated display_driver code
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL
