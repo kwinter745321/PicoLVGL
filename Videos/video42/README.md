@@ -33,7 +33,7 @@ This directory contains the files for this video.
 |           |                      |                            |
 | Firmware  |                      |                            |
 | -July2025  |                      |                            |
-| -Pico     |firmware.uf2         |   PICO2W (RP2350) firmware  (MP1.25.0 and LVGL 9.3)  |
+| -Pico2W     |firmware.uf2         |   PICO2W (RP2350) firmware  (MP1.25.0 and LVGL 9.3)  |
 |           |                      |                                 |
 |           |                      |                                 |
 
