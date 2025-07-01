@@ -26,6 +26,10 @@ This directory contains the files for this video.
 |---------|-----------|-------------|
 | Desktop   |       |  |
 |           | scan_i2c.py    | The demonstration program.|
+|           | utilities.img  | ROMFS image built from utilities directory  |
+|           |                      |                            |
+| utilities |                      |                            |
+|           | scan_i2c.py          | Copy of above source file.    |
 |           |                      |                            |
 | Firmware  |                      |                            |
 | -July2025  |                      |                            |
