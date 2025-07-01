@@ -4,10 +4,10 @@
 This is video 42 on MicroPython. This video presents ROMFS and does a brief walk through building and deploying an example program build and Deploy. We utilize the standard RPI Pico2W USB Board, but any board using MicroPython 1.25.0 or later would work.
 
 In this video, 
-    • Present the new feature; (3 year effort)
-    • Demonstrate an example
-    • Discuss the firmware
-    • Finally, we will build and deploy an example
+- Present the new feature; (3 year effort)
+- Demonstrate an example
+- Discuss the firmware
+- Finally, we will build and deploy an example
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PICOLVGL
