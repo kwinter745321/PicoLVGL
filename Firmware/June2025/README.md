@@ -6,6 +6,8 @@
 
 Uploaded firmware for RP_PICO2_W as reviewed in video39.
 
+# July update
+
 02 July 2025
 
 I built the PicoW and Pico at the same time as the above Pico2W firmware. I only verified the above Pico2W.  
