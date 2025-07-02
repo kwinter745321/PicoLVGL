@@ -1,5 +1,8 @@
 # README - video 42 - MicroPython 1.25 - What's ROMFS?
 
+# Firmware for ROMFS
+The firmware was uploaded lat on 01 July.  Please comment in the video42 if I should make firmware for (PicoW and/or Pico2) and if you like the partition size of 128KBi.
+
 # Topic 01 July 2025
 This is video 42 on MicroPython. This video presents ROMFS and does a brief walk through building and deploying an example program build and Deploy. We utilize the standard RPI Pico2W USB Board, but any board using MicroPython 1.25.0 or later would work.
 
