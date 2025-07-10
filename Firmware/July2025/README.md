@@ -1,7 +1,11 @@
+# README - JULY 2025 Firmware
 
-# Contents
+# 01 July 2025
 
-01 July 2025
+Firmware for Pico2W to try the ROMFS feature
 
-Pico2W Firmware with ROMFS feature 128 KB partition.  This is MP 1.25.0 with LVGL 9.3 and ulab.
+
+# 10 July 2025
+
+Firmware for all four Pico with the latest LVGL 9.4, MicroPython 1.25 and latest ulab 6.8
 
