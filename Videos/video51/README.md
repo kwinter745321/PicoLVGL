@@ -6,10 +6,10 @@
 This is video 51 on building MicroPython with LVGL and ulab.  We learn about the LVGL-supported lv_micropython build process.  This video provides a step by step process for the build, from a blank Ubuntu system to verifying the firmware.  The Test Rig uses Raspberry Pi Pico W USB board connected to an ILI9341 display.  This functionality is applicable to any Pico USB board. A future video will cover an alternate method.
 
 In this video, 
-    • Discuss the source and prerequisites
-    • Present the lv_micropython build approach
-    • Walk through the software installs and build
-    • Verify the firmware
+  - Discuss the source and prerequisites
+  - Present the lv_micropython build approach
+  - Walk through the software installs and build
+  - Verify the firmware
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video51
