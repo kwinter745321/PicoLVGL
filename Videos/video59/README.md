@@ -22,3 +22,5 @@ Desktop
 
 Flash
  - my_styles.py
+
+Note:  The program assumes you already have display_driver.py, ili9xxx.py, etc. on your flash.
