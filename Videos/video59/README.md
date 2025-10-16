@@ -13,7 +13,7 @@ In this video,
     • Walk through the code file and styles.
 
 The code for this video is available at the GitHub site:
-https://github.com/kwinter745321/PICOLVGL/tree/main/Videos/video59
+https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video59
 
 # Files
 
