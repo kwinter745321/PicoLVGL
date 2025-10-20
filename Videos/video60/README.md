@@ -28,3 +28,4 @@ Flash
  - ili9xxx.py                      The display classes; includes ILI9341, ST7796, and now GC9A01.
  - lv_utils.py                     A utility used by LVGL.
  - st77xx.py                       Base display class.
+ - xpt2046.py                      Not used by the GC9A01 driver.
