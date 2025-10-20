@@ -49,6 +49,9 @@ disp = ili9xxx.Gc9a01(spi=spi, dc=0, cs=17, rst=1, rot=ILI9341_PORTRAIT)
 print("Create 'disp' object for Display:",disp.display_type)
 print("Pause 1 sec.")
 time.sleep(1)
+time.sleep(1)
+backlight = Pin(2,Pin.OUT)
+backlight.on()
 
 #### screen object ###################################
 hres = disp.width   
