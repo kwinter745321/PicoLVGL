@@ -1,9 +1,10 @@
 # README - video 51
 
 21 August 2025
+10 January 20226 update
 
 # Scope
-This is video 51 on building MicroPython with LVGL and ulab.  We learn about the LVGL-supported lv_micropython build process.  This video provides a step by step process for the build, from a blank Ubuntu system to verifying the firmware.  The Test Rig uses Raspberry Pi Pico W USB board connected to an ILI9341 display.  This functionality is applicable to any Pico USB board. A future video will cover an alternate method.
+This is video 51 on building MicroPython with LVGL and ulab.  We learn about the LVGL-supported lv_micropython build process.  This video provides a step by step process for the build, from a blank Ubuntu system to verifying the firmware.  The Test Rig uses Raspberry Pi Pico (RPI_PICO) USB board connected to an ILI9341 display.  This functionality is applicable to any Pico USB board. A future video will cover an alternate method.
 
 In this video, 
   - Discuss the source and prerequisites
@@ -23,4 +24,4 @@ Background music is 7th Life by Adam MacDougall which is You Tube Licensed as no
 
 # files
 
-The firmware files from the build.
+The firmware files for RPI_PICO from the build.
