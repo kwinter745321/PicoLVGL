@@ -19,7 +19,11 @@ https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video79
 # Files
 
  - Desktop
+   - test_chart_display.py
 
  - Firmware
+    - firmware for all four models and two variants
 
  - Flash
+     - The usual drivers.  The display_driver was modified to use SoftSPI GPIO pins rather than hardware-spi ports.
+     
