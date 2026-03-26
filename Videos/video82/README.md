@@ -8,10 +8,10 @@ This is video 82 on a MicroPython/LVGL embedded solution. In this video, we try 
 You can fetch the firmware and programs from our GitHub site, and begin using them immediately.  
 
 In this video, 
-    • We demonstrate our typical GUI test programs on the touch LCD
-    • We explain our project expectations
-    • We discuss the minor but important software changes
-    • Our review will show where we made the minor changes.
+ - We demonstrate our typical GUI test programs on the touch LCD
+ - We explain our project expectations
+ - We discuss the minor but important software changes
+ - Our review will show where we made the minor changes.
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video82
