@@ -3,9 +3,9 @@
 26 March 2026
 
 # Scope
-This is video 82 on a MicroPython/LVGL embedded solution. In this video, we try a Round Touch LCD display.  We had trouble using the CST816S driver (and found that others have also.)  We found a simple solution though.  We use firmware published on March 02. Our test rig is a Pico W (RP2040) with an integrated GC9A01 Display. 
+This is video 82 on a MicroPython/LVGL embedded solution. In this video, we try a Round Touch LCD display.  We had trouble using the CST816S driver (and found that others have also.)  We found a simple solution though.  
 
-You can fetch the firmware and programs from our GitHub site, and begin using them immediately.  
+We use firmware published on March 02. Our test rig is a Pico W (RP2040) with an integrated GC9A01 Display. You can fetch the firmware and programs from our GitHub site, and begin using them immediately.  
 
 In this video, 
  - We demonstrate our typical GUI test programs on the touch LCD
