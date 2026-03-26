@@ -25,12 +25,11 @@ Background music is 7th Life by Adam MacDougall which is You Tube Licensed as no
    - test_matrix3_display.py
 
  - Firmware  
-  - See the firmware in Video 79
+   - See the firmware in Video 79
 
  - Flash
-
-  - cst816.py
-  - display_driver.py
-  - ili9xxx.py
-  - lv_utils.py
-  - st77xx.py
+   - cst816.py
+   - display_driver.py
+   - ili9xxx.py
+   - lv_utils.py
+   - st77xx.py
