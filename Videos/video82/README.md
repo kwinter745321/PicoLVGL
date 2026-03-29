@@ -1,6 +1,7 @@
 # README.md - Video82
 
 26 March 2026
+29 March 2026 - See update
 
 # Scope
 This is video 82 on a MicroPython/LVGL embedded solution. In this video, we try a Round Touch LCD display.  We had trouble using the CST816S driver (and found that others have also.)  We found a simple solution though.  
@@ -33,3 +34,8 @@ Background music is 7th Life by Adam MacDougall which is You Tube Licensed as no
    - ili9xxx.py
    - lv_utils.py
    - st77xx.py
+
+
+# Update
+
+- display_driver.py - updated with orientation (rotation) for touchscreen
