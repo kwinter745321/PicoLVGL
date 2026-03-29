@@ -1,7 +1,8 @@
 # README.md - Video82
 
 26 March 2026
-29 March 2026 - See update
+
+ - 29 March 2026 - See update
 
 # Scope
 This is video 82 on a MicroPython/LVGL embedded solution. In this video, we try a Round Touch LCD display.  We had trouble using the CST816S driver (and found that others have also.)  We found a simple solution though.  
