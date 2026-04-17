@@ -26,6 +26,6 @@ https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video85
     - Place these files on your flash drive of your MCU
 
   # Firmware
-    - See March 2026 foldefr under the Firmware directory above.
+    - See March 2026 folder under the Firmware directory above.
     - Here we placed only the RPI Pico2W firmware.
     
