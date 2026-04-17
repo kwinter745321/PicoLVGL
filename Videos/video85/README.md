@@ -18,8 +18,14 @@ https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video85
 
 # Files
 
-# Desktop
+  # Desktop
+    - test_button3_display.py
+    - test_matrix_display.py
 
-# Flash
+  # Flash
+    - Place these files on your flash drive of your MCU
 
-# Firmware
+  # Firmware
+    - See March 2026 foldefr under the Firmware directory above.
+    - Here we placed only the RPI Pico2W firmware.
+    
