@@ -7,7 +7,7 @@ This is video 100 on a HMicroPythone/LVGL embedded solution. In this video, we c
 
 The Test Rigs is a: Raspberry Pi Pico-2 with a GC9A01 Display. The wiring is provided. Actually we are using the WaveShare Touch-LCD-1.28 (so we demonstrate touch).  The Digital Compass screen does not require a touchscreen, so you can use an inexpensive display. You can fetch the firmware and programs from our GitHub site, and begin using them immediately.  
 
-We provide a reference to get our local Declination from True North.  The Driver provides a way to change the heading to True North by simply entering your value in the  program's function: heading = magneto.compass_2d(Declination)  
+We provide a reference to get our local Declination from True North.  The Driver provides a way to change the heading to True North by simply entering your value in the  program's function: heading = magneto.compass_2d (Declination)  
 
 In this video, 
  - Demonstrate a LVGL screen with the Digital Compass.
@@ -21,6 +21,12 @@ https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video100
 # Files
 
 - Desktop
+  - test_scan_i2c.py  (verify sensor and touch reside in I2c scan)
+  - test_button3_display.py  (verify lvgl and touch are working)
+  - test_compass_display.py (the Digital Compass program)
 
 - Flash
 
+  - various drivers (change pin in display_driver.py)
+  - cst816.py (capacitive touch driver)
+  - gy271_qmc5833p_driver.py (the qmc5883p driver published by TurboFan3360)
