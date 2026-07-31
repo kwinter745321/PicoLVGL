@@ -10,10 +10,10 @@ The Test Rigs is a: Raspberry Pi Pico-2 with a GC9A01 Display. The wiring is pro
 We provide a reference to get our local Declination from True North.  The Driver provides a way to change the heading to True North by simply entering your value in the  program's function: heading = magneto.compass_2d(Declination)  
 
 In this video, 
-    • Demonstrate a LVGL screen with the Digital Compass.
-    • Review our research on the sensor and components.
-    • Discuss the Test Rig and wiring.
-    • Demonstrate the calibration procedure.
+ - Demonstrate a LVGL screen with the Digital Compass.
+ - Review our research on the sensor and components.
+ - Discuss the Test Rig and wiring.
+ - Demonstrate the calibration procedure.
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video100
