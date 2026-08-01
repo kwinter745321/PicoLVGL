@@ -30,3 +30,4 @@ https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video100
   - various drivers (change pin in display_driver.py)
   - cst816.py (capacitive touch driver)
   - gy271_qmc5833p_driver.py (the qmc5883p driver published by TurboFan3360)
+
