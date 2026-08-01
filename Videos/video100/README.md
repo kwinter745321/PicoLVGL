@@ -3,7 +3,7 @@
 31 July 2026
 
 # Scope
-This is video 100 on a HMicroPythone/LVGL embedded solution. In this video, we create a Digital Compass using the QMC5883P sensor on a Raspberry Pi Pico2/2W family of microcontrollers. We use a built-in calibration procedure that significantly simplifies the effort. We then discuss the simple GUI design.  We demonstrate the digital compass screen with the LVGL Widgets as well as demonstrate the calibration procedure.   
+This is video 100 on a MicroPython/LVGL embedded solution. In this video, we create a Digital Compass using the QMC5883P sensor on a Raspberry Pi Pico2/2W family of microcontrollers. We use a built-in calibration procedure that significantly simplifies the effort. We then discuss the simple GUI design.  We demonstrate the digital compass screen with the LVGL Widgets as well as demonstrate the calibration procedure.   
 
 The Test Rigs is a: Raspberry Pi Pico-2 with a GC9A01 Display. The wiring is provided. Actually we are using the WaveShare Touch-LCD-1.28 (so we demonstrate touch).  The Digital Compass screen does not require a touchscreen, so you can use an inexpensive display. You can fetch the firmware and programs from our GitHub site, and begin using them immediately.  
 
