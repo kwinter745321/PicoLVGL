@@ -8,6 +8,7 @@ The source was pulled 05 May 2026.
 
 # Modules
 
+```
 help("modules")
 __main__          asyncio/__init__  hashlib           requests/__init__
 _asyncio          asyncio/core      heapq             rp2
@@ -28,3 +29,4 @@ aioble/security   errno             platform          websocket
 aioble/server     framebuf          random
 array             gc                re
 Plus any modules on the filesystem
+```
