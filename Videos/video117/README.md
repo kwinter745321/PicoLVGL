@@ -6,9 +6,9 @@
 This is video 117 on an MicroPython/LVGL embedded solution. In today’s video we look at a program that demonstrates fast graphics. This is a Ball game written in 1.29 MicroPython and the 9.6 LVGL release. Our TestRig is a Raspberry Pi Pico2W (RPI_PICO2_W) with an ILI9341 Display.  We also verified a ST7796 display (not shown) that only requires the screen resolution.
 
 In this video, 
-    • Demonstrate the Ball Game program.
-    • Briefly describe the design.
-    • Briefly describe the wiring (since its similiar to a previous video).
+ - Demonstrate the Ball Game program.
+ - Briefly describe the design.
+ - Briefly describe the wiring (since its similiar to a previous video).
 
 The code for this video is available at the GitHub site:
 https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video117
