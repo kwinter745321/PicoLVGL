@@ -30,3 +30,7 @@ https://github.com/kwinter745321/PicoLVGL/tree/main/Videos/video117
      - ili9xxx.py  
      - st77xx.py  
      - xpt2046.py
+     - Tuupola's MPU9250 driver
+         - mpu9250.py
+         - mpu6500.py
+         - ak8963.py
